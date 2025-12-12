@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.jfif" style="width: 1920px; height:450px;" />
+  <img src="Banner.jfif" style="width: 1920px; height:auto;" />
 </p>
 
 <p align="center">
