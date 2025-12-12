@@ -22,8 +22,8 @@
 ## Sobre mim
 <ul>
   <li>Desenvolvedor front-end focado em criar experiências digitais simples, eficientes e modernas.  </li>
-  <li>Apaixonado por React, Next.js e por transformar ideias em interfaces funcionais.  </li>
-  <li>Sempre estudando evolução do ecossistema JavaScript e boas práticas de UI/UX. </li>
+  <li>Apaixonado por React, Next.js e typescript </li>
+  <li>Sempre estudando constantemente boas práticas de UI/UX. </li>
 </ul>
 
 ---
