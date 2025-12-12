@@ -2,8 +2,6 @@
   <img src="Banner.jfif" />
 </p>
 
-<h1 align="center">👋 Olá! Eu sou Leandro Freire</h1>
-
 <p align="center">
   Desenvolvedor Front-end • Focado em criar interfaces modernas, rápidas e responsivas  
 </p>
