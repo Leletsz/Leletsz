@@ -24,10 +24,11 @@
 ---
 
 ## Sobre mim
-
-👨‍💻 Desenvolvedor front-end focado em criar experiências digitais simples, eficientes e modernas.  
-🚀 Apaixonado por React, Next.js e por transformar ideias em interfaces funcionais.  
-📚 Sempre estudando evolução do ecossistema JavaScript e boas práticas de UI/UX.  
+<ul>
+  <li>Desenvolvedor front-end focado em criar experiências digitais simples, eficientes e modernas.  </li>
+  <li>Apaixonado por React, Next.js e por transformar ideias em interfaces funcionais.  </li>
+  <li>Sempre estudando evolução do ecossistema JavaScript e boas práticas de UI/UX. </li>
+</ul>
 
 ---
 
@@ -45,7 +46,7 @@ Portal de links com design responsivo e moderno.
 
 ---
 
-### 💰 **CriptoDev**
+### **CriptoDev**
 Página de criptomoedas com Next.js e TypeScript.  
 
 ---
@@ -53,7 +54,6 @@ Página de criptomoedas com Next.js e TypeScript.
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leletsz&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leletsz&layout=compact&theme=tokyonight" />
 </p>
 
@@ -62,7 +62,7 @@ Página de criptomoedas com Next.js e TypeScript.
 ## 📬 Onde me encontrar
 
 Instagram: **@lele_v3**  
-📍 Localização: Tabuleiro do Norte – CE  
+Linkedin: **https://br.linkedin.com/in/leandro-victor-b6267516b**
 
 ---
 
