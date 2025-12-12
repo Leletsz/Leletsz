@@ -8,7 +8,7 @@
 
 ---
 
-<div style=" align-items="center"; gap: 10px;">
+<div style=" align="center"; gap: 10px;">
   
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
