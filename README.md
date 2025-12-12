@@ -25,7 +25,7 @@
 
 ---
 
-## 🧩 Sobre mim
+## Sobre mim
 
 👨‍💻 Desenvolvedor front-end focado em criar experiências digitais simples, eficientes e modernas.  
 🚀 Apaixonado por React, Next.js e por transformar ideias em interfaces funcionais.  
@@ -35,23 +35,20 @@
 
 ## 📌 Projetos em destaque
 
-### 🔗 **PrimeFlix**
+### **PrimeFlix**
 Aplicação de filmes em cartaz — busca de API, detalhes e interface responsiva.  
 **Stack:** React + JavaScript  
-➡️ *Link do repositório*
 
 ---
 
-### 🌐 **DevLink**
+### **DevLink**
 Portal de links com design responsivo e moderno.  
 **Stack:** TypeScript + React  
-➡️ *Link do repositório*
 
 ---
 
 ### 💰 **CriptoDev**
 Página de criptomoedas com Next.js e TypeScript.  
-➡️ *Link do repositório*
 
 ---
 
@@ -66,7 +63,7 @@ Página de criptomoedas com Next.js e TypeScript.
 
 ## 📬 Onde me encontrar
 
-📸 Instagram: **@lele_v3**  
+Instagram: **@lele_v3**  
 📍 Localização: Tabuleiro do Norte – CE  
 
 ---
