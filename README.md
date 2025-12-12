@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Banner.jfif" style="width: 1920px; height:auto;" />
 </p>
-
+<h1>Leandro Victor Freire de Andrade</h1>
 <p align="center">
   Desenvolvedor Front-end • Focado em criar interfaces modernas, rápidas e responsivas  
 </p>
