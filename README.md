@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x250?text=Leandro+Victor+Freire+de+Andrade" />
+  <img src="Banner.jfif" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Leandro Freire</h1>
