@@ -47,7 +47,7 @@ Página de criptomoedas com Next.js e TypeScript.
 
 ---
 
-## 📊 Minhas estatísticas
+## Minhas estatísticas
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leletsz&layout=compact&theme=tokyonight" />
@@ -55,11 +55,11 @@ Página de criptomoedas com Next.js e TypeScript.
 
 ---
 
-## 📬 Onde me encontrar
+## Onde me encontrar
 
 Instagram: **@lele_v3**  
 Linkedin: **https://br.linkedin.com/in/leandro-victor-b6267516b**
 
 ---
 
-<p align="center">✨ Sempre aberto a novas oportunidades e projetos!</p>
+<p align="center"> Sempre aberto a novas oportunidades e projetos!</p>
