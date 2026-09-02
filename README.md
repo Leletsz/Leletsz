@@ -30,20 +30,24 @@
 
 ## 📌 Projetos em destaque
 
-### **PrimeFlix**
-Aplicação de filmes em cartaz — busca de API, detalhes e interface responsiva.  
-**Stack:** React + JavaScript  
+### **DentalSync**
+Uma plataforma SaaS completa de agendamento e gestão para clínicas odontológicas, onde cada clínica tem seu próprio painel e página pública de agendamento para pacientes. 
 
 ---
 
-### **DevLink**
-Portal de links com design responsivo e moderno.  
-**Stack:** TypeScript + React  
+### **PizzaPlus**
+Um sistema completo de gerenciamento de pedidos para pizzarias, desenvolvido com três camadas independentes e comunicando-se por uma API REST.
 
 ---
 
 ### **CriptoDev**
 Página de criptomoedas com Next.js e TypeScript.  
+
+---
+
+### **PrimeFlix**
+Aplicação de filmes em cartaz — busca de API, detalhes e interface responsiva.  
+**Stack:** React + JavaScript  
 
 ---
 
