@@ -20,11 +20,10 @@
 ---
 
 ## Sobre mim
-<ul>
-  <li>Desenvolvedor front-end focado em criar experiências digitais simples, eficientes e modernas.  </li>
-  <li>Apaixonado por React, Next.js e typescript </li>
-  <li>Sempre estudando constantemente boas práticas de UI/UX. </li>
-</ul>
+Desenvolvedor Fullstack com foco em frontend, utilização de tecnologias como React, Next.js, TypeScript e Node.js, criando aplicações web modernas com atenção à performance, escalabilidade e experiência do usuário.
+Desenvolvo projetos próprios na área de SaaS e sistemas web, atuando tanto no frontend quanto no backend, aplicando boas práticas de arquitetura, componentização e construção de interfaces reutilizáveis com Tailwind CSS e shadcn/ui. Integrando APIs, modelagem de dados e desenvolvimento de soluções completas, buscando sempre código limpo, manutenção simplificada e produtos escaláveis.
+Conhecimento de design e edição visual que complementa minha atuação técnica, permitindo desenvolver produtos com maior qualidade visual e foco em usabilidade.  </li>
+
 
 ---
 
