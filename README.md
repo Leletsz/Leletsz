@@ -2,73 +2,86 @@
   <img src="Bannerr.jpg" style="width: 1920px; height:auto;" />
 </p>
 <h1 align="center">Leandro Victor 🚀</h1>
-<p align="center">
-  Desenvolvedor Front-end • Focado em criar interfaces modernas, rápidas e responsivas  
-</p>
+
+### Full Stack Developer
+
+Desenvolvedor focado na construção de aplicações web modernas,
+escaláveis e com boa experiência de usuário.
+
+Atualmente trabalho principalmente com **TypeScript, React, Next.js e Node.js**,
+desenvolvendo projetos completos do frontend ao backend.
 
 ---
 
-<div align="center">
-  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Tecnologias
 
-</div>
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## Sobre mim
-Desenvolvedor Fullstack com foco em frontend, utilização de tecnologias como React, Next.js, TypeScript e Node.js, criando aplicações web modernas com atenção à performance, escalabilidade e experiência do usuário.
-Desenvolvo projetos próprios na área de SaaS e sistemas web, atuando tanto no frontend quanto no backend, aplicando boas práticas de arquitetura, componentização e construção de interfaces reutilizáveis com Tailwind CSS e shadcn/ui. Integrando APIs, modelagem de dados e desenvolvimento de soluções completas, buscando sempre código limpo, manutenção simplificada e produtos escaláveis.
-Conhecimento de design e edição visual que complementa minha atuação técnica, permitindo desenvolver produtos com maior qualidade visual e foco em usabilidade.  </li>
-
-
----
-
-## 📌 Projetos em destaque
-
-### **DentalSync**
-Uma plataforma SaaS completa de agendamento e gestão para clínicas odontológicas, onde cada clínica tem seu próprio painel e página pública de agendamento para pacientes. 
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### **PizzaPlus**
-Um sistema completo de gerenciamento de pedidos para pizzarias, desenvolvido com três camadas independentes e comunicando-se por uma API REST.
+## Projetos em destaque
+
+### DentalSync
+
+SaaS para gerenciamento de clínicas odontológicas,
+com painel administrativo e página pública de agendamento.
+
+**Tecnologias:** Next.js · TypeScript · Prisma · Tailwind CSS
+
+[🔗 Ver projeto](https://github.com/Leletsz/DentalSync)
 
 ---
 
-### **CriptoDev**
-Página de criptomoedas com Next.js e TypeScript.  
+### PizzaPlus
+
+Sistema completo para gerenciamento de pedidos de pizzarias,
+com frontend, backend e aplicação mobile.
+
+**Tecnologias:** TypeScript · React · Node.js · API REST
+
+[🔗 Ver projeto](https://github.com/Leletsz/PizzaPlus)
 
 ---
 
-### **PrimeFlix**
-Aplicação de filmes em cartaz — busca de API, detalhes e interface responsiva.  
-**Stack:** React + JavaScript  
+### TURBOBASE
+
+Aplicação web para gerenciamento e apresentação de veículos.
+
+**Tecnologias:** React · TypeScript · Vite
+
+[🔗 Ver projeto](https://github.com/Leletsz/TURBOBASE)
 
 ---
 
-## Minhas estatísticas
+## Atualmente estudando
 
-<p align="center">
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leletsz&layout=compact&theme=tokyonight" />
-</p>
-
----
-<p align="center">
-  Onde me encontrar
-</p>
-<div align="center">
- <a href="https://www.instagram.com/lele_v3/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="lele9073"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="leandrovictor2011@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://br.linkedin.com/in/leandro-victor-b6267516b"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div> 
-
+- Arquitetura de aplicações
+- APIs REST
+- Banco de dados
+- Docker
+- Testes automatizados
+- Boas práticas de desenvolvimento
 
 ---
 
-<p align="center"> Sempre aberto a novas oportunidades e projetos!</p>
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/leandrovictordev/)
+
+[Instagram](https://www.instagram.com/lele_v3/)
+
+---
+
+💡 Sempre buscando transformar ideias em aplicações reais.
