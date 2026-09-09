@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Bannerr.jpg" style="width: 1920px; height:auto;" />
+  <img src="Bannerr2.jpg" style="width: 1920px; height:auto;" />
 </p>
 <h1 align="center">Leandro Victor Freire de Andrade</h1>
 
