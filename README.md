@@ -83,5 +83,3 @@ Aplicação web para gerenciamento e apresentação de veículos.
 [Instagram](https://www.instagram.com/lele_v3/)
 
 ---
-
-💡 Sempre buscando transformar ideias em aplicações reais.
