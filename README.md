@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Leandro Victor Freire de Andrade</h1>
 
-### Front-end Developer
+### Web Developer
 
 Desenvolvedor focado na construção de aplicações web modernas,
 escaláveis e com boa experiência de usuário.
